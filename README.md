@@ -8,7 +8,6 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
 - 👯 Estou procurando colaborar em pequenos projetos web para ganhar experiência
 - 🤔 Estou procurando ajuda com boas práticas em React e JavaScript avançado
 - 💬 Pergunte-me sobre HTML, CSS e fundamentos de JavaScript
-- 📫 Como entrar em contato comigo: ceduardodev@gmail.com
 - ⚡ Fato divertido: às vezes falo com o VS Code como se ele fosse gente 😅
 
 <p float="left">
