@@ -10,14 +10,7 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
 - 💬 Pergunte-me sobre HTML, CSS e fundamentos de JavaScript
 - ⚡ Fato divertido: às vezes falo com o VS Code como se ele fosse gente 😅
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardodev25&show_icons=true&theme=cobalt" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev25&layout=compact&theme=cobalt" width="45%" />
-</p>
-
----
-
-<table>
+ <table>
   <tr>
     <td>
       <b>💻 Conhecimento básico / intermediário</b><br>
@@ -32,4 +25,13 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
     </td>
   </tr>
 </table>
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardodev25&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev25&layout=compact&theme=tokyonight" width="45%" />
+</p>
+
+---
+
+
 
