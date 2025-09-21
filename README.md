@@ -32,7 +32,7 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
 </p>
 
 <a href="https://www.linkedin.com/in/carlos-eduardo-74ba2524a/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="100" alt="LinkedIn"/>
 </a>
 
 
