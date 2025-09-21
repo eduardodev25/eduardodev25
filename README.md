@@ -31,6 +31,8 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev25&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/carlos-eduardo-74ba2524a/)
+
 ---
 
 
