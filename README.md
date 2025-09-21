@@ -3,12 +3,12 @@
 Sou desenvolvedor front-end estudando **React** e **JavaScript**.  
 Aqui você pode ver minhas tecnologias, progresso e projetos.
 
-- 🔭 Estou em busca de uma oportunidade como Desenvolvedor Front-End / Web
-- 🌱 Atualmente estou aprendendo JavaScript e React
-- 👯 Estou procurando colaborar em pequenos projetos web para ganhar experiência
-- 🤔 Estou procurando ajuda com boas práticas em React e JavaScript avançado
-- 💬 Pergunte-me sobre HTML, CSS e fundamentos de JavaScript
-- ⚡ Fato divertido: às vezes falo com o VS Code como se ele fosse gente 😅
+- 🔭 Buscando oportunidade como Desenvolvedor Front-End
+- 🌱 Aprendendo JavaScript e React
+- 👯 Aberto a colaborar em projetos web
+- 🤔 Buscando dicas e boas práticas em React e JS avançado
+- 💬 Pergunte-me sobre HTML, CSS e fundamentos de JS
+- ⚡ Fato divertido: às vezes falo com o VS Code como se fosse gente 😅
 
 ---
 
