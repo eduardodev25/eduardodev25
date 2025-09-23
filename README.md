@@ -29,6 +29,12 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
 
 ---
 
+### 🏆 Certificações
+
+- <img src="https://img.icons8.com/fluency/48/certificate.png" height="24" alt="Certificado"/> **Técnico em Desenvolvimento de Sistemas** – SENAI  
+  ⏳ Início: Outubro/2022 | Conclusão: Janeiro/2024
+
+
 ### 📊 Estatísticas
 
 <p float="left">
