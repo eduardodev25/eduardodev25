@@ -34,19 +34,7 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
 - ![SENAI](https://img.shields.io/badge/Técnico%20em%20Desenvolvimento%20de%20Sistemas-SENAI-blue?style=for-the-badge&logo=education&logoColor=white)  
   ⏳ Início: Outubro/2022 | Conclusão: Janeiro/2024
 
-
-<div align="center">
-
-  <div style="display: inline-block; vertical-align: top; text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=carloseduardo&show_icons=true&theme=dracula&count_private=true" height="160" alt="Estatísticas do GitHub"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardo&layout=compact&theme=dracula&langs_count=6" height="160" alt="Linguagens mais usadas"/>
-  </div>
-
-  <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2s0aHQzbTBvbnVhN3p1bzhjYWFoNG5jZXQwdHMxYTQ2dG1udndudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif" height="160" alt="Desenvolvedor digitando"/>
-  </div>
-
-</div>
+### 📊 Estatísticas <p float="left"> <img src="https://github-readme-stats.vercel.app/api?username=eduardodev25&show_icons=true&theme=tokyonight" width="45%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev25&layout=compact&theme=tokyonight" width="45%" /> </p>
 
 ---
 
