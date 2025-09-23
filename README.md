@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+edita pra mim de acordo com minhas informações do github : <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
