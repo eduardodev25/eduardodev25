@@ -34,7 +34,21 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
 - ![SENAI](https://img.shields.io/badge/Técnico%20em%20Desenvolvimento%20de%20Sistemas-SENAI-blue?style=for-the-badge&logo=education&logoColor=white)  
   ⏳ Início: Outubro/2022 | Conclusão: Janeiro/2024
 
-### 📊 Estatísticas <p float="left"> <img src="https://github-readme-stats.vercel.app/api?username=eduardodev25&show_icons=true&theme=tokyonight" width="45%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev25&layout=compact&theme=tokyonight" width="45%" /> </p>
+### 📊 Estatísticas
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+
+  <div style="flex-shrink: 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=eduardodev25&show_icons=true&theme=tokyonight" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev25&layout=compact&theme=tokyonight" width="300" />
+  </div>
+
+  <div style="flex-shrink: 0;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2s0aHQzbTBvbnVhN3p1bzhjYWFoNG5jZXQwdHMxYTQ2dG1udndudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200" alt="Desenvolvedor digitando" />
+  </div>
+
+</div>
+
 
 ---
 
