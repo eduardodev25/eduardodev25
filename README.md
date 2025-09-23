@@ -8,9 +8,7 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
 - 🌱 Aprendendo JavaScript e React  
 - 👯 Aberto a colaborar em projetos web  
 - 🤔 Buscando dicas e boas práticas em React e JS avançado  
-- 💬 Pergunte-me sobre HTML, CSS e fundamentos de JS  
-- ⚡ Fato divertido: às vezes falo com o VS Code como se fosse gente 😅  
-
+ 
 ---
 
 <img src="https://media.tenor.com/On7kvXhzml4AAAAi/loading-gif.gif" width="120" />
