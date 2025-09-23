@@ -35,6 +35,9 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
   ⏳ Início: Outubro/2022 | Conclusão: Janeiro/2024
 
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Boneco digitando"/>
+
+
 ### 📊 Estatísticas
 
 <p float="left">
