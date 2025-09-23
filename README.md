@@ -12,7 +12,7 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
  
 ---
 
-<img src="https://media.tenor.com/On7kvXhzml4AAAAi/loading-gif.gif" width="120" />
+
 
 
 ### 💻 Tecnologias
