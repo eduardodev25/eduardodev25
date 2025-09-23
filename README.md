@@ -1,51 +1,59 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Carlos+Eduardo+👋;Front-End+Developer+🚀)](https://git.io/typing-svg)
-
-
-Sou desenvolvedor front-end estudando **React** e **JavaScript**.  
-Aqui você pode ver minhas tecnologias, progresso e projetos.
-
-- 🔭 Buscando oportunidade como Desenvolvedor Front-End  
-- 🌱 Aprendendo JavaScript e React  
-- 👯 Aberto a colaborar em projetos web  
-- 🤔 Buscando dicas e boas práticas em React e JS avançado  
- 
----
-
-
-
-
-### 💻 Tecnologias
-
-<table>
-  <tr>
-    <td>
-      <b>Conhecimento básico / intermediário</b><br>
-      <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </td>
-    <td>
-      <b>Atualmente me aprofundando</b><br>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Estatísticas
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardodev25&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev25&layout=compact&theme=tokyonight" width="45%" />
+<h2 align="left">Oi 👋! Eu sou Carlos Eduardo, desenvolvedor Front-End do Brasil 🌎</h2>
+<p align="left">
+  🚀 Adoro criar aplicações web com <strong>React</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong> e tecnologias modernas de front-end!  
+  💡 Sempre aprendendo e sempre codando.
 </p>
 
----
+###
 
-### 📫 Contato
+<div align="center">
+  <a href="https://github.com/carloseduardo">
+    <img src="https://github-readme-stats.vercel.app/api?username=carloseduardo&show_icons=true&theme=dracula&count_private=true" height="160" alt="Estatísticas do GitHub"/>
+  </a>
+  <a href="https://github.com/carloseduardo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardo&layout=compact&theme=dracula&langs_count=6" height="160" alt="Linguagens mais usadas"/>
+  </a>
+</div>
 
-<a href="https://www.linkedin.com/in/carlos-eduardo-74ba2524a/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/>
-</a>
+###
+
+<img align="right" height="150" src="https://i.gifer.com/origin/65/65efzo.gif" alt="Animação de codando"/>
+
+###
+
+<div align="left">
+  <h3>💻 Minhas Skills:</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />  
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.youtube.com/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.twitch.tv/">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  <a href="mailto:carloseduardo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/carloseduardo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+![Animação Snake](https://raw.githubusercontent.com/carloseduardo/carloseduardo/output/snake.svg)
