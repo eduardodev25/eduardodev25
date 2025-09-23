@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Carlos+Eduardo+👋;Front-End+Developer+🚀)](https://git.io/typing-svg)
 
-## Olá, eu sou Carlos Eduardo 👋
 
 Sou desenvolvedor front-end estudando **React** e **JavaScript**.  
 Aqui você pode ver minhas tecnologias, progresso e projetos.
@@ -8,10 +7,6 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
 - 🔭 Buscando oportunidade como Desenvolvedor Front-End  
 - 🌱 Aprendendo JavaScript e React  
 - 👯 Aberto a colaborar em projetos web  
-- 🤔 Buscando dicas e boas práticas em React e JS avançado  
-- 💬 Pergunte-me sobre HTML, CSS e fundamentos de JS  
-- ⚡ Fato divertido: às vezes falo com o VS Code como se fosse gente 😅  
-
 ---
 
 ### 💻 Tecnologias
