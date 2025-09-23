@@ -35,7 +35,9 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
   ⏳ Início: Outubro/2022 | Conclusão: Janeiro/2024
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Boneco digitando"/>
+### 👨‍💻 Codando no Front-End
+
+![Desenvolvedor digitando](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVldnkwamh5a21mbnU3cmF6ZWJibjJoZmVsc3g1cmRyc3l1MWZzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif)
 
 
 ### 📊 Estatísticas
