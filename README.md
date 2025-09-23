@@ -36,18 +36,21 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
 
 ### 📊 Estatísticas
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<table>
+  <tr>
+    <!-- Estatísticas do GitHub -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=eduardodev25&show_icons=true&theme=tokyonight" width="300" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev25&layout=compact&theme=tokyonight" width="300" />
+    </td>
 
-  <div style="flex-shrink: 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=eduardodev25&show_icons=true&theme=tokyonight" width="300" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev25&layout=compact&theme=tokyonight" width="300" />
-  </div>
-
-  <div style="flex-shrink: 0;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2s0aHQzbTBvbnVhN3p1bzhjYWFoNG5jZXQwdHMxYTQ2dG1udndudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200" alt="Desenvolvedor digitando" />
-  </div>
-
-</div>
+    <!-- GIF do dev digitando -->
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2s0aHQzbTBvbnVhN3p1bzhjYWFoNG5jZXQwdHMxYTQ2dG1udndudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200" alt="Desenvolvedor digitando" />
+    </td>
+  </tr>
+</table>
 
 
 ---
