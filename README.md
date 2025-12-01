@@ -34,13 +34,11 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
 - ![SENAI](https://img.shields.io/badge/Técnico%20em%20Desenvolvimento%20de%20Sistemas-SENAI-blue?style=for-the-badge&logo=education&logoColor=white)  
   ⏳ Início: Outubro/2022 | Conclusão: Janeiro/2024
 
-
 ### 📊 Estatísticas
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardodev25&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev25&layout=compact&theme=tokyonight" width="45%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=eduardodev25&show_icons=true&theme=tokyonight" width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev25&layout=compact&theme=tokyonight" width="45%">
+
 
 
 ---
