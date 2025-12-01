@@ -36,10 +36,7 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
 
 ### 📊 Estatísticas
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardodev25&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev25&layout=compact&theme=tokyonight" width="45%" />
-</p>
+![Minha estatística animada](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 
 
