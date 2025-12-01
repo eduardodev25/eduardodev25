@@ -36,8 +36,9 @@ Aqui você pode ver minhas tecnologias, progresso e projetos.
 
 ### 📊 Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=eduardodev25&show_icons=true&theme=tokyonight" width="45%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev25&layout=compact&theme=tokyonight" width="45%">
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=eduardodev25&show_icons=true&theme=tokyonight" width="300"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev25&layout=compact&theme=tokyonight" width="300"/> |
 
 
 
